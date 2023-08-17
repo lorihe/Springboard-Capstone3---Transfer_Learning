@@ -9,9 +9,9 @@ Data Source: [Kaggle-Football 🏈 Vs Rugby 🏉 Image Classification](https://w
 #### 01_Data_Overview [Notebook](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/01_Data_Wrangling_EDA.ipynb)
 The raw data source contains images sorted as below: \
 'train' folder --- 'rugby' folder (1224 images)\
-               --- 'soccer' folder (1224 images)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp--- 'soccer' folder (1224 images)\
 'test' folder  --- 'rugby' folder (305 images)\
-               --- 'soccer' folder (305 images)              
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp--- 'soccer' folder (305 images)              
 
 All images are in one of these formats: 'JPEG', 'JPG', 'BMP', 'PNG', 'MPO.
 
