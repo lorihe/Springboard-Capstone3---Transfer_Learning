@@ -10,7 +10,7 @@ Data Source: [Kaggle-Football 🏈 Vs Rugby 🏉 Image Classification](https://w
 The raw data source contains images sorted as below: \
 'train' folder --- 'rugby' folder (1224 images)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --- 'soccer' folder (1224 images)\
-'test' folder&nbsp;&nbsp;  --- 'rugby' folder (305 images)\
+'test' folder&nbsp;  --- 'rugby' folder (305 images)\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --- 'soccer' folder (305 images)              
 
 All images are in one of these formats: 'JPEG', 'JPG', 'BMP', 'PNG', 'MPO.
