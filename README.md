@@ -1,6 +1,6 @@
 # Springboard-Capstone3---Transfer_Learning
 
-# Soccer or Rugby Image Classification
+## Soccer or Rugby Image Classification
 
 This project uses pre-trained weights to create an classification model which recognized images as either 'soccer' or 'rugby'. This project also deploy the model as a web application using Streamlit.
 
