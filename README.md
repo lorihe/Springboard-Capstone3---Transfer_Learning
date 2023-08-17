@@ -11,7 +11,7 @@ The raw data source contains images sorted as below: \
 'train' folder --- 'rugby' folder (1224 images)\
                --- 'soccer' folder (1224 images)\
 'test' folder  --- 'rugby' folder (305 images)\
-               --- 'soccer' folder (305 images)\              
+               --- 'soccer' folder (305 images)              
 
 All images are in one of these formats: 'JPEG', 'JPG', 'BMP', 'PNG', 'MPO.
 
