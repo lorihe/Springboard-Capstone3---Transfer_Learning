@@ -25,6 +25,7 @@ I used MobileNetV2 as the base model to train on the updated datasets. The train
 
 #### 03_Streamlit.ipynb [Notebook](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/03_Streamlit.ipynb.ipynb)  
 ![application](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/Web_app.gif)
+
 To deploy:
 - Save [model](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/model.hdf5) in a selected directory on your Google Drive. 
 - Open '03_Streamlit.ipynb' on Google Colab.
