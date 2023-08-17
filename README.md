@@ -15,7 +15,7 @@ The raw data source contains images sorted as below: \
 
 All images are in one of these formats: 'JPEG', 'JPG', 'BMP', 'PNG', 'MPO.
 
-By browsing images in the raw data, it was noticed that:\
+By browsing images in the raw data, it was noticed that:
 - A few basketball/American football pictures were placed in the soccer folders. Those pictures are manually replaced for this project.
 - Multiple American football pictures were placed in the rugby folders. Those pictures are not corrected at the moment.
 - All soccer images files in 'soccer' folder were named as 'rugby'. Those file names were corrected in code.
