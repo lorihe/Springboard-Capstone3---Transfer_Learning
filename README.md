@@ -25,8 +25,13 @@ I used MobileNetV2 as base model to train on the updated datasets. The training 
 
 #### 03_Streamlit.ipynb [Notebook](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/03_Streamlit.ipynb.ipynb)  
 ![application](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/Web_app.gif)
+
 To deploy:
-Save [model](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/model.hdf5) in the same directory. Run 03_Streamlit.ipynb. Open 'your url' and input the 'External URL' (remove 'http://' and ':8501')
+- Save [model](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/model.hdf5) in a selected directory on your Google Drive. 
+- Open '03_Streamlit.ipynb' on Google Colab.
+- Direct the connection to your selected directory in code. Run through all lines.
+- Open 'your url' and input the 'External URL' (remove 'http://' and ':8501').
+- Pick a picture to predict.
 
 #### 04_Performance.ipynb [Notebook](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/04_Performance.ipynb.ipynb)
 I applied the model to newly collected datasets:\
