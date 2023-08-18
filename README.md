@@ -33,13 +33,15 @@ To deploy:
 
 ### 04_Performance.ipynb [Notebook](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/04_Performance.ipynb.ipynb)
 I applied the model to newly collected datasets:\
-'rugby' folder (50 images)\
-'soccer' folder (50 images)
+&nbsp;&nbsp;'rugby' folder (50 images)\
+&nbsp;&nbsp;'soccer' folder (50 images)
 
 **Prediction performance metrics & wrongly labeled images:**
 
   <img src="https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/cm.JPG?raw=true" alt="Image Description" width="280" height="250">
+  
 ![error](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/error.JPG?raw=true)
+
 
 
 As shown, the model performs much better in recognizing soccer than in rugby. The next step would be cleaning up the noise in training data to see if it improves the performance.
