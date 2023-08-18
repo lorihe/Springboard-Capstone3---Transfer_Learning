@@ -38,9 +38,12 @@ I applied the model to newly collected datasets:\
 'rugby' folder (50 images)\
 'soccer' folder (50 images)
 
-**Prediction performance metrics:**
-![metrics]
+**Prediction performance metrics & wrongly labeled images:**
+![metrics](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/cm.JPG?raw=true)
 
+![error](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/error.JPG?raw=true)https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/error.JPG?raw=true
+
+As shown, the model performs much better in recognizing soccer than in rugby. The next step would be cleaning up the noise in training data to see if it imporoves the performance.
 
 
 
