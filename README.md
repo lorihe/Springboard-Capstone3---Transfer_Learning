@@ -18,10 +18,10 @@ All images are in one of these formats: 'JPEG', 'JPG', 'BMP', 'PNG', 'MPO.
 By browsing images in the raw data, it was noticed that:
 - A few basketball/American football pictures were placed in the soccer folders. Those pictures are manually replaced for this project.
 - Multiple American football pictures were placed in the rugby folders. Those pictures are not corrected at the moment.
-- All soccer image files in 'soccer' folder were named as 'rugby'. Those file names were corrected in the code.
+- All soccer image files in 'soccer' folder were named 'rugby'. Those file names were corrected in the code.
 
 #### 02_Game_Classification [Notebook](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/02_Game_Classification.ipynb)  
-I used MobileNetV2 as the base model to train on the updated datasets. The training resulted in accuracy 0.9493 on training set and 0.918 on validation set.
+I used MobileNetV2 as the base model to train on the updated datasets. The training resulted in an accuracy of 0.9493 on the training set and 0.918 on the validation set.
 
 #### 03_Streamlit.ipynb [Notebook](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/03_Streamlit.ipynb.ipynb)  
 ![application](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/Web_app.gif)
@@ -37,6 +37,9 @@ To deploy:
 I applied the model to newly collected datasets:\
 'rugby' folder (50 images)\
 'soccer' folder (50 images)
+
+**Prediction performance metrics:**
+![metrics]
 
 
 
