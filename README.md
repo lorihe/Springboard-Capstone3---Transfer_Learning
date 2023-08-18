@@ -38,9 +38,9 @@ I applied the model to newly collected datasets:\
 
 **Prediction performance metrics & wrongly labeled images:**
 
-  <img src="https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/cm.JPG?raw=true" alt="Image Description" width="280" height="250">
+  <img src="https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/cm.JPG?raw=true" alt="Image Description" width="320" height="250">
   
-![error](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/error.JPG?raw=true)
+![errror](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/performance/error.JPG?raw=true)
 
 
 
