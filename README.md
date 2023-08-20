@@ -28,7 +28,7 @@ To deploy:
 - Save [model](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/model.hdf5) in a selected directory on your Google Drive. 
 - Open '03_Streamlit.ipynb' on Google Colab.
 - Direct the connection to your selected directory in code. Run through all lines.
-- Open 'your url' and input the 'External URL' (remove 'http://' and ':8501').
+- Use the output of the last line. Open 'your url' and input the 'External URL' (remove 'http://' and ':8501').
 - Pick a picture to predict.
 
 ### 04_Performance.ipynb [Notebook](https://github.com/lorihe/Springboard-Capstone3---Transfer_Learning/blob/main/04_Performance.ipynb.ipynb)
