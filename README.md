@@ -1,4 +1,4 @@
-## 'Soccer or Rugby Image' Classification
+## 'Soccer or Rugby' Image Classification
 
 This project uses pre-trained weights to create a classification model which recognized images as either 'soccer' or 'rugby'. This project also deploys the model as a web application using Streamlit.
 
